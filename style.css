@@ -121,9 +121,9 @@ Layout
 Media Query
 ================ */
 
-@media (min-width: 600px) {
+@media (min-width: 1200px) {
   .testimonial-container {
-    max-width: 1200px;
+    max-width: 1150px;
     display: grid;
     grid-template: 300px 250px / repeat(3, 25%) 1fr;
     grid-gap: 20px;
